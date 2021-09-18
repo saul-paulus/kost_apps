@@ -1,0 +1,51 @@
+hr {
+    width: 50%;
+}
+
+
+/* .navbar {
+    background-color: #f7f4f1 !important;
+} */
+
+.jumbotron {
+    height: 25rem;
+    /* background-color: #f7f4f1 !important; */
+}
+
+.jumbotron .lead {
+    color: #636161;
+}
+
+.card-alamat {
+    font-size: 15px;
+    color: rgb(143, 145, 145);
+    margin-top: -10px;
+}
+
+
+/* 
+.card-body {
+    background-color: #f7f4f1 !important;
+} */
+
+.card-body .btn {
+    color: #f4f4f4;
+    transition: ease-in 0.2s;
+}
+
+.card-body .btn:hover {
+    color: #f4f4f4;
+}
+
+.card img {
+    height: 15rem;
+}
+
+
+/*  Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) {
+    .card {
+        width: 100%;
+    }
+}
